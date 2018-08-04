@@ -8,7 +8,7 @@ cameras:
 carrier: Project Foo
 channels: [weekly]
 codename: vicky
-cpu: HiSilicon Kirin 960
+cpu: HiSilicon Kirin 960, armV8a cortex-a73/a53, same as  MediaTek Helio X30,Snapdragon 835 
 cpu_cores: '4+4'
 cpu_freq: 2.3 GHz
 current_branch: 15.1
